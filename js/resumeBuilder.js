@@ -35,15 +35,15 @@ var education = {
   "Qualifications": ["A Level Mathematics", "A Level Government and Politics", "A Level Business"],
   "dates":2017,
   "url":"http://www.woolwichpoly.co.uk/"
-}
+};
 var work = {
   "Occupation":"Customer Service assistant",
   "Employer":"ASDA",
   "Time of employment": "2 Years"
-}
+};
 var Achievements = {
   "Awards":"Princess Diana Award"
-}
+};
 var bio = {"name":"Khrishawn Powell",
 "age": 18,
 "Mobile":"02085677856",
@@ -51,4 +51,4 @@ var bio = {"name":"Khrishawn Powell",
 "Location":"London",
 "welcomeMessage": "Ambition is Key to success",
 "skills": ["Making money", "Deep Thinker"],
-"bioPic": "images/fry.jpg"}
+"bioPic": "images/fry.jpg"};
